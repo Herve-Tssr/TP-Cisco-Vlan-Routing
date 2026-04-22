@@ -87,6 +87,16 @@ Une PME souhaitait améliorer la sécurité et l’organisation de son réseau e
 
 ---
 
+## Vérification de la configuration ACL
+
+### Liste de contrôle d'accès
+![ACL](preuves/acl.png)
+
+### Application de l'ACL sur l'interface
+![ACL Interface](preuves/acl-interface.png)
+
+---
+
 ## Résultats
 
 Le réseau est correctement segmenté grâce aux VLAN.  
