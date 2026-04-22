@@ -70,7 +70,7 @@ Une PME souhaitait améliorer la sécurité et l’organisation de son réseau e
 
 ---
 
-## 📸 Preuves
+## Preuves
 
 ### VLAN
 ![VLAN](preuves/vlan.png)
@@ -79,7 +79,8 @@ Une PME souhaitait améliorer la sécurité et l’organisation de son réseau e
 ![Trunk](preuves/trunk.png)
 
 ### Ping OK
-![Ping OK](preuves/ping-ok.png)
+![Ping OK](preuves/ping-admin-tech.png)
+![Ping OK](preuves/ping-admin-invite.png)
 
 ### Ping bloqué (ACL)
 ![Ping Bloqué](preuves/ping-bloque.png)
