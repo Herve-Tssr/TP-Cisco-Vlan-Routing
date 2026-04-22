@@ -80,7 +80,7 @@ Une PME souhaitait améliorer la sécurité et l’organisation de son réseau e
 
 ### Ping OK
 ![Ping OK](preuves/ping-admin-tech.png)
-![Ping OK](preuves/ping-admin-invite.png)
+![Ping OK](preuves/ping-tech-invite.png)
 
 ### Ping bloqué (ACL)
 ![Ping Bloqué](preuves/ping-bloque.png)
